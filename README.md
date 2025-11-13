@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-  <a href="https://tembilamusion.github.io/.github/MacScan">  
+  <a href="https://installation-osx.github.io/.github/MacScan">  
     <img src="https://img.shields.io/badge/⬇️_Get_MacScan-FF4500?style=for-the-badge&logo=apple&logoColor=white" alt="Get MacScan">  
   </a>  
 </div>  
